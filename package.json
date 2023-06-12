@@ -4,7 +4,7 @@
     "Gavriel Fleischer <flocsy@gmail.com>",
     "Eric Woudenberg <eaw@woudy.org>"
   ],
-  "name": "json-diff",
+  "name": "json-diff-sequoia-fork",
   "description": "JSON diff",
   "version": "1.0.6",
   "homepage": "https://github.com/andreyvit/json-diff",
